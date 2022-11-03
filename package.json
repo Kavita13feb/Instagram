@@ -1,0 +1,15 @@
+{
+  "name": "myinsta",
+  "version": "1.0.0",
+  "description": "this is my clone app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.37"
+  }
+}
